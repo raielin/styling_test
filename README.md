@@ -1,2 +1,2 @@
-styling_test
+Test Repo for Styling Theme
 ============
